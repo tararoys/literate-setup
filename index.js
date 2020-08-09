@@ -18,7 +18,6 @@ gcd.on("need document", function () {
 
 gcd.on("file ready", function(text, evObj) {
     var filename = evObj.pieces[0];
-    process.stdout.write(evObj.data)
     
     fs.writeFile(filename, text, function (err) {
   if (err) throw err;
