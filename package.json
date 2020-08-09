@@ -1,0 +1,8 @@
+{
+  "name": "MyFirstLiterateProgram",
+  "dependencies": {
+    "fs": "latest",
+    "literate-programming-lib": "latest"
+  },
+  "version": "1.0.0"
+}
