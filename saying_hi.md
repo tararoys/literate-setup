@@ -34,4 +34,29 @@ fence block. Hey, maybe we'll get some syntax highlighting!
 function bye () {
     console.log("bye");
 }
+
+
+```
+
+# Testing out saving in a new section
+
+￼ We want to write a little javascript command that says hi, waits one second,
+and then says bye. We will save it in [teens2.js](# "save:")
+
+Greetings are great, right?
+
+    hmmmm
+
+Timer is in milliseconds, so 1000. We'll call the function `bye` defined
+elsewhere
+
+    real phrases
+
+And now let's define the bye function. For no apparent reason, we use a named
+fence block. Hey, maybe we'll get some syntax highlighting!
+
+```md
+
+ok
+
 ```
